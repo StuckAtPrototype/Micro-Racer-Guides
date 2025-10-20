@@ -1,5 +1,10 @@
 # Micro Racer Assembly Procedure
 
+## Navigation
+- [🏠 Home](README.md) | [🚗 Micro Racer Assembly](RacerAssembly.md) | [🎮 Thumbtroller Assembly](ThumbtrollerAssembly.md)
+
+---
+
 ### What You Need
 
 #### Tools

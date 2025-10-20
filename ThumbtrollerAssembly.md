@@ -1,5 +1,10 @@
 # Thumbtroller Assembly Procedure
 
+## Navigation
+- [🏠 Home](README.md) | [🚗 Micro Racer Assembly](RacerAssembly.md) | [🎮 Thumbtroller Assembly](ThumbtrollerAssembly.md)
+
+---
+
 ### ⚠️ Safety Warning
 **Electrostatic sensitive components.** Please ensure proper grounding before handling.
 

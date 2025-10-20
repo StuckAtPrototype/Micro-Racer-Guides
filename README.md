@@ -1,5 +1,10 @@
 # Micro Racer Kit Assembly Guide
 
+## Navigation
+- [🏠 Home](README.md) | [🚗 Micro Racer Assembly](RacerAssembly.md) | [🎮 Thumbtroller Assembly](ThumbtrollerAssembly.md)
+
+---
+
 ## ⚠️ Safety Warning
 **Electrostatic sensitive components.** Please ensure proper grounding before handling. Make sure to touch anything that is grounded to discharge before assembly. Ideally, wear a grounding bracelet.
 
