@@ -5,7 +5,7 @@
 
 ---
 
-<img src="images/other/1.jpg" alt="Micro Racer Guides" width="720" />
+<img src="images/other/1.JPG" alt="Micro Racer Guides" width="720" />
 ---
 
 ## Instruction Manuals
