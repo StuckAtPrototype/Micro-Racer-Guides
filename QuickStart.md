@@ -1,10 +1,3 @@
----
-title: "Micro Racer Quick Start Guide"
-description: "Setup, charging, controls, and compliance information for your Micro Racer kit."
-nav_order: 1
-has_children: false
----
-
 # 🏎️ Micro Racer Quick Start Guide 
 
 ## Navigation
