@@ -23,6 +23,8 @@
 #### Step 1: Prepare the Sensor
 Remove the sensor from the bottom connector on the Micro Racer PCB. Set it aside.
 
+<img src="images/racer/1.png" alt="Racer step 1" width="720" />
+
 #### Step 2: Position the PCB
 Take the Bottom Chassis and the Micro Racer PCB. Place the Micro Racer PCB on top of the Bottom Chassis as pictured. The bottom connector will go into the opening on the Bottom Chassis.
 
@@ -32,6 +34,8 @@ Take one of the Planetary Motors and route the leads through the front hole as p
 > **IMPORTANT:** Do steps 3 through 4 one (1) motor at a time. It is much more difficult if you try doing all motors at the same time.
 > 
 > **DO NOT** snap the motors into position until all soldering is done. The heat from soldering can deform the plastic.
+
+<img src="images/racer/2.png" alt="Racer step 2" width="720" />
 
 #### Step 4: Solder Motor Connections
 This is by far the most difficult step, but you got this!
@@ -57,11 +61,15 @@ Solder the motor leads as per the table above. Repeat steps 3 and 4 for each mot
 
 **Congratulations, you passed the most difficult step. The rest is a breeze! 😊**
 
+<img src="images/racer/3.png" alt="Racer step 3" width="720" />
+
 #### Step 5: Snap Motors into Position
 Snap each motor into its corresponding spot leaving space between the motors for the spacer. You will hear a click, don't be scared, it takes a bit of pressure.
 
 #### Step 6: Organize Wires
 For each motor, once in position, pull the wires to the top as pictured above. Repeat steps 5 through 6 for each motor.
+
+<img src="images/racer/4.png" alt="Racer step 4" width="720" />
 
 #### Step 7: Install Spacers
 Insert the spacer for each axle.
@@ -69,16 +77,22 @@ Insert the spacer for each axle.
 #### Step 8: Install Tires
 Install tires on the wheels. Note the thread direction, this is only for aesthetics and doesn't really affect the driving characteristics. Refer to the image below.
 
+<img src="images/racer/5.png" alt="Racer step 5" width="720" />
+
 #### Step 9: Install Wheels
 Install the wheels on the motors. As you push the wheels on to the motors you need to align the motors with the chassis. Once aligned, you can push against the opposite sides to ensure the wheels are well secured.
 
 > **Note:** Don't be scared to wiggle the wheels a bit to get them onto the motor shaft. They are press fit and the fitting is fairly tight.
+
+<img src="images/racer/6.png" alt="Racer step 6" width="720" />
 
 #### Step 10: Install Battery
 Take the 300mAh LiPo Battery provided in the set. Ensure the RED lead is aligned with the (+) on the board. Plug it into the Micro Racer PCB.
 
 #### Step 11: Secure Battery
 Install the battery into the compartment. Ensure that the battery leads align to the notch towards the front of the car. Fit the lead into the notch.
+
+<img src="images/racer/7.png" alt="Racer step 7" width="720" />
 
 #### Step 12: Test the Car
 Test the car. Power on the car with the On/Off toggle switch. Turn on the Thumbtroller, make sure the car and the controller connect. The car's headlights will turn on and the top indicator LED on the Thumbtroller will turn blue.
@@ -100,10 +114,14 @@ Cut a small strip of the provided double sided tape and place it on top of the E
 #### Step 17: Install Top Chassis
 Place the Top Chassis on top, ensuring it sticks to the tape. Ensure the battery wire goes into the proper position.
 
+<img src="images/racer/8.png" alt="Racer step 8" width="720" />
+
 #### Step 18: Reinstall Sensor
 Reinstall the Sensor as pictured. Please make sure the orientation is as pictured.
+
+<img src="images/racer/10.png" alt="Racer step 10" width="720" />
 
 #### Step 19: Apply Sticker
 Attach the FCC/CE sticker. It gives you extra horsepower! 😉
 
-
+<img src="images/racer/11.png" alt="Racer step 11" width="720" />
