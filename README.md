@@ -11,6 +11,8 @@
 ---
 
 ## Instruction Manuals
+- [Quick Start Guide](QuickStart.md)
+- [Full Manual](Manual.md)
 
 ## Assembly Guides
 
