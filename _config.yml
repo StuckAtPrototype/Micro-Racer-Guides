@@ -8,5 +8,6 @@ include:
   - RacerAssembly.md
   - ThumbtrollerAssembly.md
   - Manual.md
+  - QuickStart.md
   - images/
 markdown: GFM

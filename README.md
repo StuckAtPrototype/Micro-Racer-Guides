@@ -1,7 +1,7 @@
 # Micro Racer Kit Assembly Guide
 
 ## Navigation
-- [🏠 Home](README.md) | [🚗 Micro Racer Assembly](RacerAssembly.md) | [🎮 Thumbtroller Assembly](ThumbtrollerAssembly.md)
+- [Home](README.md) | [Quick Start](QuickStart.md) | [Micro Racer Assembly](RacerAssembly.md) | [Thumbtroller Assembly](ThumbtrollerAssembly.md)
 
 ---
 
