@@ -23,12 +23,16 @@ This guide will walk you through flashing firmware to your Micro Racer using the
    - **WorkMode**: Select `Develop`
    - **LoadMode**: Select `USB`
 
+<img src="images/flashing/1.png" alt="Flashing setup" width="300" />
+
 ### 2. Configure the Firmware File
 
 1. Click the `...` button next to the file path field
 2. Navigate to and select your firmware file (.bin file)
 3. Set the **address** to `0x0` (zero x zero)
 4. Ensure the file path and address are correctly displayed
+
+<img src="images/flashing/2.png" alt="Flashing setup" width="600" />
 
 ### 3. Prepare Your Micro Racer
 
@@ -52,9 +56,10 @@ This guide will walk you through flashing firmware to your Micro Racer using the
    - Address set to 0x0
    - Correct COM port selected
 
-2. Click the **Flash** button to begin the flashing process
+2. Click the **Start** button to begin the flashing process
 
 3. Wait for the flashing process to complete - you should see progress indicators and success messages
+4. **Important**: When the flashing tool shows "Finished", you need to restart your Micro Racer by toggling the power switch OFF and then back ON
 
 ## Troubleshooting
 
@@ -65,5 +70,9 @@ This guide will walk you through flashing firmware to your Micro Racer using the
 
 ## Success
 
-Once flashing is complete, your Micro Racer should be running the new firmware. You can disconnect the USB cable and test your device.
+Once flashing is complete and the tool shows "Finished":
+
+1. **Restart your Micro Racer** by toggling the power switch OFF and then back ON
+2. Disconnect the USB cable
+3. Your Micro Racer should now be running the new firmware and ready to use
 
