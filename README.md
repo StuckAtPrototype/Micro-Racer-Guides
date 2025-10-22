@@ -1,7 +1,7 @@
 # Micro Racer Guides
 
 ## Navigation
-- [Home](README.md) | [Quick Start](QuickStart.md) | [Micro Racer Assembly](RacerAssembly.md) | [Thumbtroller Assembly](ThumbtrollerAssembly.md)
+- [Home](README.md) | [Quick Start](QuickStart.md) | [Micro Racer Assembly](RacerAssembly.md) | [Thumbtroller Assembly](ThumbtrollerAssembly.md) | [Flashing Guide](FlashingGuide.md)
 
 ---
 
@@ -16,6 +16,10 @@
 
 - [Micro Racer Assembly Procedure](RacerAssembly.md)
 - [Thumbtroller Assembly Procedure](ThumbtrollerAssembly.md)
+
+## Flashing Guide
+
+- [Micro Racer Flashing Guide](FlashingGuide.md)
 
 ## License
 
