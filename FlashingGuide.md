@@ -30,11 +30,13 @@ This guide will walk you through flashing firmware to your Micro Racer using the
 3. Set the **address** to `0x0` (zero x zero)
 4. Ensure the file path and address are correctly displayed
 
-### 3. Connect Your Micro Racer
+### 3. Prepare Your Micro Racer
 
-1. Connect your Micro Racer to your PC using a USB-C cable
-2. **Important**: If the connection doesn't work initially, try flipping the USB-C connector - sometimes the orientation matters
-3. Wait for Windows to recognize the device and install drivers if needed
+1. **Ensure the battery is connected** to your Micro Racer
+2. **Switch the car to ON** position
+3. Connect your Micro Racer to your PC using a USB-C cable
+4. **Important**: If the connection doesn't work initially, try flipping the USB-C connector - sometimes the orientation matters
+5. Wait for Windows to recognize the device and install drivers if needed
 
 ### 4. Select the COM Port
 
